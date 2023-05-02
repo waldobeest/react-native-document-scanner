@@ -12,7 +12,7 @@ Live document detection library. Returns either a URI of the captured image, all
 
 ## Getting started
 
-Version `>=2.0.2` is thinking to work with React Native >= 0.70
+Version `>=2.0.3` is thinking to work with React Native >= 0.70
 
 > Use [version `1.6.2`](https://github.com/Andycapn/react-native-document-scanner/tree/v1.6.2) if you are using React Native 0.59
 
