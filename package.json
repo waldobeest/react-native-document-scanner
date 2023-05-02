@@ -1,6 +1,6 @@
 {
   "name": "@andycapn/react-native-document-scanner",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Scan documents, automatic border detection, automatic crop",
   "main": "lib/module/index.js",
   "types": "lib/typescript/index.d.ts",
